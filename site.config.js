@@ -1,6 +1,6 @@
 export default {
   title: "hyerim-record.com",
-  description: "DGIST 학교생활, 개인 프로젝트  공부 기록",
+  description: "DGIST 학교생활, 개인 프로젝트 및 공부 기록",
   language: "ko",
   siteUrl: "https://hyerim1212.github.io/hyerim-blog/",
   ogImage: "./og-image.png",
@@ -55,12 +55,12 @@ export default {
     {
       title: "1학년 1학기",
       category: "freshman-first-semester",
-      description: "학교생활의 시작과 학기 중 활동을 차근차근 기록합니다.",
+      description: "학교생활의 시작과 학기 중 활동을 기록합니다.",
     },
     {
       title: "시뮬레이션 구현",
       category: "simulation",
-      description: "문제 정의, 모델링, 구현 과정, 결과 분석을 정리합니다.",
+      description: "문제 정의, 모델링, 구현 과정, 결과 분석 정리합니다.",
     },
     {
       title: "로봇 팔 제작",
