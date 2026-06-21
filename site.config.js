@@ -3,7 +3,7 @@ export default {
    * Basic information
    */
   title: `hyerim-record.com`,
-  description: `정혜림의 학교생활, 프로젝트, 개인 공부 기록`,
+  description: `DGIST , 개인 프로젝트 및 공부 기록`,
   language: `ko`,
   siteUrl: `https://hyerim-record.com/`,
   ogImage: `/og-image.png`,
