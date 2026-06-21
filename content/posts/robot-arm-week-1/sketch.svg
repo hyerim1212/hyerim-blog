@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="로봇 팔 설계 스케치">
+  <rect width="900" height="520" fill="#fbfaf7"/>
+  <rect x="78" y="76" width="744" height="368" rx="18" fill="#ffffff" stroke="#e2ddd2"/>
+  <rect x="170" y="352" width="170" height="42" rx="10" fill="#dce8df" stroke="#6f7f65" stroke-width="3"/>
+  <circle cx="255" cy="315" r="42" fill="#eef3ea" stroke="#3d4939" stroke-width="5"/>
+  <path d="M286 286 L430 196" stroke="#202124" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="455" cy="180" r="38" fill="#eef3ea" stroke="#3d4939" stroke-width="5"/>
+  <path d="M486 162 L626 222" stroke="#202124" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="658" cy="236" r="32" fill="#eef3ea" stroke="#3d4939" stroke-width="5"/>
+  <path d="M686 250 L742 286" stroke="#202124" stroke-width="14" stroke-linecap="round"/>
+  <path d="M744 286 L778 270 M744 286 L776 310" stroke="#202124" stroke-width="8" stroke-linecap="round"/>
+  <text x="132" y="132" fill="#202124" font-family="Arial, sans-serif" font-size="28" font-weight="700">Robot Arm Sketch</text>
+  <text x="176" y="424" fill="#5d5a52" font-family="Arial, sans-serif" font-size="18">base · joints · gripper</text>
+</svg>
