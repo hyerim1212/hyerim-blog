@@ -1,6 +1,6 @@
 export default {
   title: "hyerim-record.com",
-  description: "정혜림의 학교생활, 프로젝트, 개인 공부 기록",
+  description: "DGIST 학교생활, 개인 프로젝트  공부 기록",
   language: "ko",
   siteUrl: "https://hyerim1212.github.io/hyerim-blog/",
   ogImage: "./og-image.png",
@@ -8,13 +8,13 @@ export default {
   author: {
     name: "정혜림",
     nickname: "hyerim",
-    stack: ["Python", "Simulation", "Robotics"],
+    stack: [""],
     bio: {
       email: "hyerim12@dgist.ac.kr",
       residence: "Seoul, South Korea",
       school: "DGIST",
       grade: "1학년",
-      interests: ["시뮬레이션", "로봇 팔", "Python", "개인 공부 기록"],
+      interests: ["Simulation", "control engineering", "fluid mechanics"],
     },
     social: {
       github: "https://github.com/hyerim1212",
@@ -27,7 +27,7 @@ export default {
     {
       title: "School Life",
       path: "#school-life",
-      description: "학기별 학교생활과 활동 기록",
+      description: "DGIST 활동 기록",
     },
     {
       title: "Projects",
@@ -37,7 +37,7 @@ export default {
     {
       title: "Study Log",
       path: "#study-log",
-      description: "개인적으로 공부한 내용 정리",
+      description: "개인공부",
     },
     {
       title: "About",
