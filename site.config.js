@@ -35,6 +35,11 @@ export default {
       description: "시뮬레이션 구현, 로봇 팔 제작 등 프로젝트 기록",
     },
     {
+      title: "Records",
+      path: "#records",
+      description: "프로젝트 진행 과정과 사진 기록",
+    },
+    {
       title: "Study Log",
       path: "#study-log",
       description: "개인공부",
