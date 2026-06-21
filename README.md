@@ -6,16 +6,18 @@
 
 - `site.config.js`: 이름, 소개, 메뉴, 프로젝트 카드, 공부 카테고리, 타임라인
 - `content/posts/`: 프로젝트 진행 과정과 공부 기록 Markdown 글
-- `assets/images/`: 글에 넣을 사진
+- `content/posts/글-이름/`: 글 본문 `index.md`와 해당 글에 쓰는 사진
+- `assets/images/`: 공통으로 여러 글에서 쓰는 사진
 - `styles.css`: 색상, 글자 크기, 여백 등 디자인
 - `index.html`: 첫 화면의 고정 문구와 페이지 구조
 
 ## 새 글 작성 방법
 
-1. `content/posts/새-글-이름.md` 파일을 만듭니다.
-2. `content/posts/index.js`에 글 정보를 추가합니다.
-3. 사진은 `assets/images/simulation/`, `assets/images/robot-arm/`, `assets/images/study/` 등에 올립니다.
-4. Markdown에서 `![사진 설명](./assets/images/simulation/photo.png)`처럼 사진을 넣습니다.
+1. `content/posts/새-글-이름/` 폴더를 만듭니다.
+2. 그 안에 `index.md` 파일을 만듭니다.
+3. 사진은 같은 폴더에 넣습니다.
+4. `content/posts/index.js`에 `"새-글-이름"`을 추가합니다.
+5. Markdown에서 `![사진 설명](photo.png)`처럼 사진을 넣습니다.
 
 ## 프로젝트 기록 추천 형식
 
