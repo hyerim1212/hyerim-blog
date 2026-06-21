@@ -1,0 +1,9 @@
+{
+  "name": "hyerim-blog",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node -e \"import('./site.config.js').then(() => console.log('site.config.js loaded'))\""
+  }
+}
